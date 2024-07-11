@@ -1,15 +1,13 @@
-# birthday
+# birthday card 
 
-A new Flutter project.
+First Flutter project.
 
-## Getting Started
+## Simple Widget
 
-This project is a starting point for a Flutter application.
+using scaffold widget for making body 
+and background for Scaffold to make all screen same color of photo 
+using image widget to add this photo to screen 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
