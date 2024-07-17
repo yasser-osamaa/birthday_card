@@ -7,7 +7,7 @@ Just learn How to Put Image
 using scaffold widget for making body 
 <br><br>and background for Scaffold to make all screen same color of photo 
 <br><br>using image widget to add this photo to screen 
-</b>
+
 <br><br>
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
