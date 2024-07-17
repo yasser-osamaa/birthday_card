@@ -4,7 +4,7 @@ Just learn How to Put Image
 
 ## Simple Widget
 <b>
-<br><br>using scaffold widget for making body 
+using scaffold widget for making body 
 <br><br>and background for Scaffold to make all screen same color of photo 
 <br><br>using image widget to add this photo to screen 
 </b>
